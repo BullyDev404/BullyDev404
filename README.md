@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devbypeace" alt="devbypeace" /></a> </p>
 
-- 🔭 I’m currently working on **surviving 💀**
+- 🔭 I’m currently working on **surviving uni💀**
 
 - 🌱 I’m currently learning **React, Jonas Schmedtmann**
 
