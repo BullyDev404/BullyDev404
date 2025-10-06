@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Awesome ⟪BullyDev¡⟫</h1>
 <h3 align="center">A passionate frontend developer who codes mainly with JavaScript and is currently learning React.js</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devbypeace&label=Profile%20views&color=0e75b6&style=flat" alt="devbypeace" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bullydev404&label=Profile%20views&color=0e75b6&style=flat" alt="devbypeace" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bullydev404" alt="devbypeace" /></a> </p>
 
